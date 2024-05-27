@@ -1,0 +1,133 @@
+.card_sec p {
+    font-weight: 600;
+    font-size: 12px;
+    padding: 0px;
+    padding: 15px 0 0 0;
+}
+
+.card_sec h3 {
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0px;
+    position: absolute;
+    right: 15px;
+    top: 16px;
+}
+
+.cardSec {
+    /* background-color: #f5dbde; */
+    border-radius: 10px;
+    min-height: 100px;
+    height: 100%;
+    position: relative;
+}
+
+.icon1 {
+    /* background-color: #f9597d; */
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    padding: 23px;
+    box-shadow: 0px 2px 8px rgb(0 0 0 / 10%);
+}
+
+.icon1 svg {
+    color: #fff;
+    font-size: 30px;
+}
+
+.cardSec2 {
+    background-color: #f5e8cd;
+    border-radius: 10px;
+    min-height: 100px;
+    height: 100%;
+    position: relative;
+}
+
+.icon2 {
+    background-color: #fe947a;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    padding: 23px;
+    box-shadow: 0px 2px 8px rgb(0 0 0 / 10%);
+}
+
+.icon2 svg {
+    color: #fff;
+    font-size: 30px;
+}
+
+.cardSec3 {
+    background-color: #d4f5df;
+    border-radius: 10px;
+    min-height: 100px;
+    height: 100%;
+    position: relative;
+}
+
+.icon3 {
+    background-color: #3cd856;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    padding: 23px;
+    box-shadow: 0px 2px 8px rgb(0 0 0 / 10%);
+}
+
+.icon3 svg {
+    color: #fff;
+    font-size: 30px;
+}
+
+.cardSec4 {
+    background-color: #f4e8ff;
+    border-radius: 10px;
+    min-height: 100px;
+    height: 100%;
+    position: relative;
+}
+
+.icon4 {
+    background-color: #bf83ff;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    padding: 23px;
+    box-shadow: 0px 2px 8px rgb(0 0 0 / 10%);
+}
+
+.icon4 svg {
+    color: #fff;
+    font-size: 30px;
+}
+.pinkColorLight {
+    background-color: #ffc0cbc2;
+}
+.pinkColor {
+    background-color: #e19da9;
+}
+
+.greyColor {
+    background-color: #808080;
+}
+
+.purpleColor {
+    background-color: #800080;
+}
+
+.greenColor {
+    background-color: #008000;
+}
